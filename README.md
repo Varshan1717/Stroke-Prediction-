@@ -1,5 +1,5 @@
 # Stroke Prediction System
-https://569e4e684a3d0639d8.gradio.live
+https://569e4e684a3d0639d8.gradio.live 
 This app predicts the risk of stroke using healthcare data. Built with Scikit-Learn and Gradio.
 
 ## Features
